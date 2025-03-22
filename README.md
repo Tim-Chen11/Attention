@@ -61,9 +61,3 @@ This repository contains notes, code, and experiments on various **Attention Mec
 - **S²-Attention (Shifted-Window or Spatial Attention)**: Often used in vision transformers to capture spatial context.
 
 ---
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/yourusername/attention-mechanisms.git
-cd attention-mechanisms
